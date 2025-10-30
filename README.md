@@ -24,7 +24,7 @@ Free Quick Effects Vol. 1 →　エネミーを生産するゲートモデルや
 ## サンプルゲーム
   
 ぜひゲームを体験してみてください！  
-![Robosurvivorサンプル]()
+[Robosurvivorサンプル](https://dynarise2001.xyz/kunren/sample/robosurvivor_alpha/)
   
 ## ゲームフロー
   
